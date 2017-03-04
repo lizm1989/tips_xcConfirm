@@ -2,13 +2,14 @@
 JS弹窗DEMO
 
 #引入
-<pre>
+```html
   <link rel="stylesheet" type="text/css" href="css/xcConfirm.css"/>
   <script src="js/jquery-1.9.1.js" type="text/javascript" charset="utf-8"></script>
   <script src="js/xcConfirm.js" type="text/javascript" charset="utf-8"></script>
-</pre>   
+``` 
     
 #demo
+```js
 $("#btn1").click(function(){
 					var txt=  "提示文字，提示文字，提示文字，提示文字，提示文字，提示文字";
 					window.wxc.xcConfirm(txt, window.wxc.xcConfirm.typeEnum.info);
@@ -60,3 +61,4 @@ $("#btn1").click(function(){
 					var txt=  "默认";
 					window.wxc.xcConfirm(txt);
 				});
+```
