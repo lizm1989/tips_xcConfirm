@@ -2,9 +2,9 @@
 JS弹窗DEMO
 
 #使用引用
- ><link rel="stylesheet" type="text/css" href="css/xcConfirm.css"/>
-		<script src="js/jquery-1.9.1.js" type="text/javascript" charset="utf-8"></script>
-		<script src="js/xcConfirm.js" type="text/javascript" charset="utf-8"></script>
+ <link rel="stylesheet" type="text/css" href="css/xcConfirm.css"/>
+ <script src="js/jquery-1.9.1.js" type="text/javascript" charset="utf-8"></script>
+ <script src="js/xcConfirm.js" type="text/javascript" charset="utf-8"></script>
     
     
 #demo
